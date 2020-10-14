@@ -1,0 +1,91 @@
+.body-content{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    padding: 10px 10px 0px 10px;
+}
+
+.header{
+    width: 100%;
+}
+
+.chrp-nav{
+
+}
+
+.chrp{
+    margin: 0;
+    padding:0px 0px 10px;
+}
+.nav-list{
+    text-decoration: none;
+    list-style-type:none;
+    margin: 0;
+    padding: 0px 0px 10px;
+}
+
+.nav-item{
+    padding: 0px 0px 10px;
+}
+
+.nav-link{
+    color: #69696a;
+}
+
+.bbutton{
+    background-color: #000;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0px;
+    border-radius: 25px;
+    width: 100%;
+    border: 0px;
+    position: relative;
+    right:0;
+}
+
+.lorem{
+    margin: 15px;
+    padding: 0px 10px;
+    border-left: 3px solid  #69696a ;
+    color: #69696a;
+}
+
+.foot{
+    background-color: rgba(247, 193, 162, 0.7);
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0px;
+    display: inline-block;
+}
+
+/* FIGURE OUT FLOAT FOR FOOTER! */
+
+.footchirp{
+   float: left;
+   padding: 0px 15px;
+   text-align: center;
+   display: block;
+}
+
+.link-list{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#idk{
+    float: right;
+}
+.foot-link{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #69696a;
+    margin: 0;
+    padding: 0px 10px;
+
+}
